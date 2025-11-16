@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm a Fullstack .NET student based in Stockholm, Sweden, currently studying at Chas Academy with the goal of starting an exciting career as a developer. I'm curious about how things work, and even more about how to make them better. I share both school work and personal projects here, which will (hopefully😎) improve as i continue to learn and grow as a developer. <br><br>- 🔭 Background: Previously worked in the car rental and sales industry<br>- 📚 I'm currently learning C# and the .NET ecosystem<br>- ⚡ Interests: In my free time I especially love to go fishing</p>
+<p align="left">I'm a Fullstack .NET student based in Stockholm, Sweden, currently studying at Chas Academy with the goal of starting an exciting career as a developer. I'm curious about how things work, and even more about how to make them better. I share both school work and personal projects here, which will (hopefully😎) improve as i continue to learn and grow as a developer. <br><br>- 🔭 Background: Previously worked in the car rental and sales industry<br>- 📚 I'm currently learning databases/SQL<br>- ⚡ Interests: In my free time I especially love to go fishing</p>
 
 ###
 
