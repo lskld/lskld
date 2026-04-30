@@ -1,14 +1,13 @@
-<h1 align="left">Welcome! 🎲</h1>
-
-###
-
 <br clear="both">
 
 <img align="right" height="215" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzM3cjl5MjdjenhidXljajExMTdxanl3b25qYWh1Nnk2Y3k5a3U5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif"  />
 
 ###
 
-<p align="left">I'm a Fullstack .NET student based in Stockholm, Sweden, currently studying at Chas Academy with the goal of starting an exciting career as a developer. I'm curious about how things work, and even more about how to make them better. I share both school work and personal projects here, which will (hopefully😎) improve as i continue to learn and grow as a developer. <br><br>- 🔭 Background: Previously worked in the car rental and sales industry<br>- 📚 Currently focusing on AI-integration and system architecture<br> - ⚡ Interests: In my free time I especially love to go fishing</p>
+<p align="left">Fullstack .NET developer | Stockholm
+
+Building scalable systems with .NET, focused on architecture, AI integration, and long-term maintainability.
+</p>
 
 ###
 
