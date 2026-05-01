@@ -2,17 +2,10 @@
 
 <img align="right" height="215" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzM3cjl5MjdjenhidXljajExMTdxanl3b25qYWh1Nnk2Y3k5a3U5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif"  />
 
-###
-
 <p align="left">Fullstack .NET developer | Stockholm
 
 Building scalable systems with .NET, focused on architecture, AI integration, and long-term maintainability.
 </p>
-
-
-
-<h3 align="left">🛠 Languages, tools and frameworks i'm currently using or learning:</h3>
-
 
 ### Backend & Architecture
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -42,12 +35,9 @@ Building scalable systems with .NET, focused on architecture, AI integration, an
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-</div>
-###
-
 <p align="left">Contact:</p>
 
-###
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/theolillieskold/" target="_blank">
@@ -61,4 +51,4 @@ Building scalable systems with .NET, focused on architecture, AI integration, an
   </a>
 </div>
 
-###
+
