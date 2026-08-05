@@ -1,11 +1,13 @@
-<br clear="both">
-
 <h1>Theo Lilliesköld</h1>
 
-<p align="left">Software Developer | Stockholm | AI-focused and business minded.</p>
+<p align="left">
+  Software Developer | Stockholm | AI-focused and business minded.
+</p>
+
+<br>
 
 <p>
-  <a href="https://lskld.com" target="_blank" rel="noopener noreferrer"><img src="https://api.iconify.design/tabler:world-www.svg?color=white" width="35" height="35" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/theolillieskold/" target="_blank" rel="noopener noreferrer"><img src="https://api.iconify.design/tabler:brand-linkedin.svg?color=white" width="35" height="35" alt="LinkedIn"></a>
-  <a href="mailto:theo@lskld.com"><img src="https://api.iconify.design/tabler:mail.svg?color=white" width="35" height="35" alt="Email"></a>
+  <strong>Website:</strong> <a href="https://lskld.com" target="_blank" rel="noopener noreferrer">lskld.com</a><br>
+  <strong>Email:</strong> theo@lskld.com<br>
+  <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/theolillieskold/" target="_blank" rel="noopener noreferrer">linkedin.com/in/theolillieskold</a>
 </p>
